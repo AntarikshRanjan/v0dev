@@ -20,16 +20,6 @@ These claims feed into downstream services that:
 
 ---
 
-## NOT in Scope
-
-This service does NOT:
-- Generate UI components
-- Create CreativeSpec
-- Generate code
-- Make assumptions about user intent
-
----
-
 ## Architecture
 
 ```
