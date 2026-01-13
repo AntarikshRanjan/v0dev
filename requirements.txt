@@ -1,0 +1,16 @@
+
+# Video processing
+opencv-python==4.8.1.78
+ffmpeg-python==0.2.0
+
+# Numerical computation
+numpy==1.24.3
+
+# Image similarity metrics (SSIM)
+scikit-image==0.21.0
+
+# Configuration
+PyYAML==6.0.1
+
+# Progress tracking
+tqdm==4.66.1
